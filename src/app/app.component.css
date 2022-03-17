@@ -1,0 +1,22 @@
+button{
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 1%;
+  width: 5vw;
+  height: 5vh;
+}
+
+#div1 button{
+  width: 8.8vw;
+  height: 5vh;
+}
+.principal{
+  border: solid blue;
+  background-color: beige;
+}
+.container{
+  height: 100vh;
+}
+p{
+  border: solid black;
+}
